@@ -1,11 +1,10 @@
-# -*- coding: utf-8 -*-
 # -----------------------------------------------------------------------------------
 # Script File Name: LandSuitability.py
 # Author: Nadia Barbosa
 # Date: 02.22.15
 # Purpose: Calculates an output raster modeling land suitability based on DEM & Land Use raster inputs and two weight values.
 #
-# TOOL PARAMTER SETTINGS: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# TOOL PARAMETER SETTINGS: - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #           *DISPLAY NAME*         *DATA TYPE*      *TYPE*         *DIRECTION*
 #     [0] = "Workspace"          = Workspace        = Required     = Input 
 #     [1] = "Output raster name" = String           = Required     = Output
@@ -143,8 +142,3 @@ except:
 finally:
     #---Return extension---#
     arcpy.CheckInExtension("Spatial")    
-    
-
-    
-    
-
