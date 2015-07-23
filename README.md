@@ -57,3 +57,20 @@ All Others  | 0
 
 #### Result:    
 The final output is a raster with values of 0-3, with the higher amount indicating the best areas for building new housing according to previously defined parameters. 
+
+_______________________
+#### ArcPy Tool Configuration in ArcMap   
+
+The following parameter properties were assigned when using this script as a custom tool in ArcMap:
+
+Parameter  | Data Type | Required? | Direction
+:-------------: | :-------------: | :-------------: | :-------------:
+Workspace | Workspace | No | Input
+Output Raster Name | Raster Layer | No | Output
+DEM Input | Raster Layer | Yes | Input
+Land Use Input | Raster Layer | Yes | Input
+Weight 1 | Any Value | Yes | Input
+Weight 2 | Any Value | Yes | Input
+
+
+
