@@ -18,7 +18,7 @@ _______________________
 
 ######4) Calculate the Slope and Aspect from the DEM  
 
-######5) Reclassies the Slope Layer 
+######5) Reclassifies the Slope Layer 
 
 Slope Reclassification:   
 
@@ -28,7 +28,7 @@ Old Slope Value (Degree)  | New Slope Value (Rank)
 3-6  | 2 
 6-90  | 1
 
-######6) Reclassies the Aspect Layer  
+######6) Reclassifies the Aspect Layer  
 
 Aspect Reclassification:   
 
@@ -41,7 +41,7 @@ Old Aspect Value (Degree)  | New Aspect Value (Rank)
 225-315  | 2
 315-360  | 1
 
-######7) Reclassies the Land Use Layer  
+######7) Reclassifies the Land Use Layer  
 
 Land Use Reclassification:   
 
