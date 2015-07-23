@@ -61,7 +61,7 @@ The final output is a raster with values of 0-3, with the higher amount indicati
 _______________________
 #### ArcPy Tool Configuration in ArcMap   
 
-The following parameter properties were assigned when using this script as a custom tool in ArcMap:
+The following parameter properties are assigned when using this script as a custom tool in ArcMap:
 
 Parameter  | Data Type | Required? | Direction
 :-------------: | :-------------: | :-------------: | :-------------:
