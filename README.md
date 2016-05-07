@@ -3,7 +3,7 @@
 
 This is an ArcPy tool made for a final project GEOG-656, Programming and Scripting for GIS at the University of Maryland. It is not intended for use in real-life scenarios, but is rather a personal practice in developing an ArcPy tool.   
 
-**_Important_**: The two raster inputs (used in step 1) used to run this tool examine the area of Prince George's County, Maryland. If you would like to use the identical rasters used in this script example, please contact me. However, Any two DEM and land use rasters should work. Keep in mind the Land Use reclassification is arbitary and the results are not intended for actual use.
+**_Important_**: The two raster inputs (used in step 1) used to run this tool examine the area of Prince George's County, Maryland. If you would like to use the identical rasters used in this script example, please contact me. However, Any two DEM and land use rasters should work. Keep in mind the Land Use reclassification is arbitrary and the results are not intended for actual use.
 _______________________
 
 ####The tool performs the following tasks:  
